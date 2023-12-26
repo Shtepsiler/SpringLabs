@@ -15,8 +15,11 @@
 	<name>SpringBootJSP</name>
 	<description>Demo project for Spring Boot and thymeleaf</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>17</java.version> 
+		   <tomcat.version>9.0.45</tomcat.version>
+
 	</properties>
+
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
